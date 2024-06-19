@@ -1,6 +1,6 @@
-# React + Vite
+Error Handling
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here you learn how to carry out error handling on a form.
 
 Currently, two official plugins are available:
 

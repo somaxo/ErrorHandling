@@ -144,7 +144,7 @@ function App() {
                       errors.password ? "border-red-500" : "border-black"
                     } font-semibold mt-3 outline-0 `}
                   />
-
+                  <FaRegEyeSlash
                     onClick={toggleEye}
                     className="absolute right-10 top-10 "
                   />
